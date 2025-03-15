@@ -3,10 +3,10 @@ import streamlit as st
 import requests
 
 # Local
-API = "http://127.0.0.1:8000"
+# API = "http://127.0.0.1:8000"
 
 # Producton
-API = ""
+API = "https://ramzan-coding-nights-cubx.vercel.app/"
 
 def generate_white_joke():
     """Fetch a random white joke from API"""
