@@ -52,8 +52,8 @@ A fun **Streamlit** web app that fetches and displays **random White and Desi jo
 - **Desi Jokes:** `https://ramzan-coding-nights-cubx.vercel.app/desi_jokes`
 
 ## 📸 Screenshot
+![alt text](image.png)
 
-image.png
 
 ## 🤝 Contributing
 
