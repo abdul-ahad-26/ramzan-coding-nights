@@ -33,7 +33,8 @@ with st.spinner("🔄 Loading password breach database..."):
     BLOOM_FILTER = load_bloom_filter("breached-passwords.txt")
 
 password = st.text_input("Enter your password:", type="password")
-
+def greeting():
+ print()
 
 if st.button("Check Password"):
     with st.spinner("🔄 Checking password..."):
@@ -54,3 +55,6 @@ if st.button("Check Password"):
         else:
             st.success("✅ Safe: This password was NOT found in any known breaches.")
     st.success("✅ Check completed!")
+
+for i in range(5):
+    print()
