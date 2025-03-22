@@ -1,0 +1,23 @@
+[
+    {
+        "title": "Rich dad poor dad",
+        "author": "william",
+        "year": "2006",
+        "genre": "money",
+        "read": false
+    },
+    {
+        "title": "new title",
+        "author": "william",
+        "year": "2007",
+        "genre": "no money",
+        "read": true
+    },
+    {
+        "title": "Tareekh e Islam",
+        "author": "don't know",
+        "year": "2000",
+        "genre": "history",
+        "read": true
+    }
+]
